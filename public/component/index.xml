@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Components on Aminudin Resume</title>
+    <link>//localhost:1313/component/</link>
+    <description>Recent content in Components on Aminudin Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2024 12:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/component/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/component/bio/bio/</link>
+      <pubDate>Thu, 04 Jul 2024 12:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/component/bio/bio/</guid>
+      
+      <description>Hello, I’m Aminudin, a passionate Software Engineer specializing in backend development and proficient in JavaScript and TypeScript. I also have interest in web pentesting and Android apps pentesting, with a strong commitment to security testing and vulnerability assessment.
+I enjoy coding and exploring new technologies to build secure and efficient solutions.
+Feel free to explore my projects and blog posts to learn more about my work!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
