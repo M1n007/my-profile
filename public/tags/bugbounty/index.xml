@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugbounty on Aminudin Resume</title>
+    <link>http://localhost:1313/tags/bugbounty/</link>
+    <description>Recent content in Bugbounty on Aminudin Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bugbounty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploiting IDOR Vulnerability in PostgREST</title>
+      <link>http://localhost:1313/posts/exploiting-idor-vulnerability-in-postgrest/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/exploiting-idor-vulnerability-in-postgrest/</guid>
+      
+      <description>&lt;p&gt;Exploiting IDOR Vulnerability in PostgREST&lt;/p&gt;
+&lt;p&gt;This time, I was exploring the web3 space again, on a platform where you can earn points by completing campaigns they provide. On this platform, when you complete their campaigns, you&amp;rsquo;re given coins that can potentially be converted into crypto tokens later.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

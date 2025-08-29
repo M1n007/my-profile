@@ -2,23 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/component/bio/bio/</loc>
+    <loc>http://aminudin.me/pages/certificates/</loc>
+    <lastmod>2024-12-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://aminudin.me/</loc>
+    <lastmod>2024-12-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://aminudin.me/pages/</loc>
+    <lastmod>2024-12-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://aminudin.me/component/bio/bio/</loc>
     <lastmod>2024-07-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/component/</loc>
+    <loc>http://aminudin.me/component/</loc>
     <lastmod>2024-07-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-07-04T12:00:00+00:00</lastmod>
+    <loc>http://aminudin.me/pages/about/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/about/</loc>
+    <loc>http://aminudin.me/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/pages/</loc>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://aminudin.me/tags/</loc>
   </url>
 </urlset>

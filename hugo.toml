@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'http://aminudin.me/'
 languageCode = 'en-us'
 title = 'Aminudin Resume'
 theme = 'hugo-blog-awesomes'
@@ -13,10 +13,14 @@ contentDir = "content"
     url = '/'
     weight = 10
   [[menu.main]]
-    pageRef="posts"
     name = 'Posts'
-    url = '/posts/'
+    url = 'https://aminudin.medium.com/'
     weight = 20
+  [[menu.main]]
+    pageRef="pages/certificates"
+    name = 'Certificates'
+    url = '/pages/certificates/'
+    weight = 25
 #   [[menu.main]]
 #     pageRef="about"
 #     name = 'About'
@@ -30,7 +34,7 @@ contentDir = "content"
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
   description = "Aminudin Resume"
-  mainSections = ['posts']
+  mainSections = []
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
